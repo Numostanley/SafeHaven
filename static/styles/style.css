@@ -419,6 +419,7 @@ a {
 .layout--2 > .container > div:last-child {
   flex-basis: 25%;
 }
+
 /*========== Layout Box ==========*/
 
 .layout__box {
