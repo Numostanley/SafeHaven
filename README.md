@@ -10,7 +10,7 @@ You can view the complete project by following the steps below;
 
 --> Clone the repository using the command below :
 ```bash
-git clone https://github.com/divanov11/StudyBud.git
+https://github.com/Numostanley/SafeHaven.git
 
 ```
 
