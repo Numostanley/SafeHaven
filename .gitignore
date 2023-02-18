@@ -1,2 +1,5 @@
 __pycache__/
 zappa_settings.json
+venv
+.dockerignore
+/pyenv.cfg
