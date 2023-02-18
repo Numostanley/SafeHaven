@@ -3,6 +3,9 @@
 # Safe Haven
 </div>
 
+This is a full stack group chat application.
+You can view the complete project by following the steps below;
+
 ### Cloning the repository
 
 --> Clone the repository using the command below :
